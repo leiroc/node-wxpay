@@ -70,7 +70,7 @@ npm install node-wxpay
 
 **模式二**：直接调用 createUnifiedOrder() 函数生成预支付交易单，将结果中的 code_url 生成二维码给用户扫。
 
-[什么是模式二？]()
+[什么是模式二？](https://pay.weixin.qq.com/wiki/doc/api/native.php?chapter=6_5)
 
 ### 公众号支付 (JS API)
 
